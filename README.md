@@ -42,6 +42,6 @@ This project serves as a stepping stone for understanding the inner workings of 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/libft.git
+   git clone git@github.com:hassan-kheireddin/Libft.git
    cd libft
    make
