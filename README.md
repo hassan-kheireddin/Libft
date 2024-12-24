@@ -10,7 +10,6 @@ Libft is a comprehensive library of custom C functions developed during the 42 Ã
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [License](#license)
 
 ---
 
@@ -43,5 +42,12 @@ This project serves as a stepping stone for understanding the inner workings of 
 1. Clone the repository:
    ```bash
    git clone git@github.com:hassan-kheireddin/Libft.git
+   
+2. Enter the folder:
+   ```bash
    cd libft
+   ```
+3. compile:
+   ```bash
    make
+   ```
